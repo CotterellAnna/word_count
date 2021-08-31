@@ -43,6 +43,10 @@ body {
           box-shadow: 2px 2px 12px #AFCBFF;
 }
 
+.count_box p {
+  color: brown;
+}
+
 h1 {
   text-transform: uppercase;
   text-align: center;
